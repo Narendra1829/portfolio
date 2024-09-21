@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Countries",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to browse through all the countries.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://dharti.netlify.app/",
+    "source": "https://github.com/Narendra1829/countries"
+  },
+  {
+    "title": "Expense Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to keep a trak on your expenses.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://expensedekho.netlify.app",
+    "source": "https://github.com/Narendra1829/expense-tracker"
+  }
+]

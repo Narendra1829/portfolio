@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "NetEnrich Inc.",
+    "startDate": "Dec, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Developed responsive web applications with React.js",
+      " Implemented state management using Redux",
+      "Utilized Ant Design to create reusable components",
+      "Enhanced application performance through code optimization",
+      "Integrated RESTful APIs to display dynamic data"
+    ],
+    "imageSrc": "history/netenrich.png"
+  }
+]
