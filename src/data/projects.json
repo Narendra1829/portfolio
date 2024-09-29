@@ -10,9 +10,17 @@
   {
     "title": "Expense Calculator",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to keep a trak on your expenses.",
+    "description": "This is a project made to keep a track on your expenses.",
     "skills": ["React", "JavaScript"],
     "demo": "https://expensedekho.netlify.app",
     "source": "https://github.com/Narendra1829/expense-tracker"
+  },
+  {
+    "title": "Zwigato App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project for online food ordering.",
+    "skills": ["React", "JavaScript", "Bootstrap"],
+    "demo": "https://zwigato-app.netlify.app/",
+    "source": "https://github.com/Narendra1829/Zwigato"
   }
 ]
